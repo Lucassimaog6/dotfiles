@@ -1,0 +1,94 @@
+{
+	// 
+	// Editor
+	// 
+	"editor.cursorSmoothCaretAnimation": true,
+	"editor.fontFamily": "'JetBrains Mono', 'Courier New', monospace",
+	"editor.detectIndentation": false,
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.accessibilitySupport": "off",
+	"editor.codeLens": false,
+	"editor.dragAndDrop": false,
+	"editor.emptySelectionClipboard": false,
+	"editor.folding": false,
+	"editor.foldingHighlight": false,
+	"editor.insertSpaces": false,
+	"editor.linkedEditing": true,
+	"editor.renderLineHighlight": "all",
+	"editor.smoothScrolling": true,
+	"editor.wrappingStrategy": "advanced",
+	"editor.cursorBlinking": "smooth",
+	"editor.cursorWidth": 2,
+	"editor.formatOnSave": true,
+	"editor.formatOnSaveMode": "modificationsIfAvailable",
+	"editor.minimap.maxColumn": 50,
+	"editor.minimap.renderCharacters": false,
+	"editor.minimap.side": "left",
+	"editor.minimap.size": "fit",
+	"editor.snippetSuggestions": "top",
+	"editor.suggest.localityBonus": true,
+	"editor.suggest.preview": true,
+	"editor.wordBasedSuggestionsMode": "allDocuments",
+	"editor.guides.bracketPairs": true,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.inlineSuggest.enabled": true,
+	// 
+	// VSCode
+	// 
+	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.startupEditor": "none",
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false,
+	"files.autoSave": "afterDelay",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.list.smoothScrolling": true,
+	"workbench.reduceMotion": "off",
+	"workbench.editor.pinnedTabSizing": "compact",
+	"workbench.editor.scrollToSwitchTabs": true,
+	"workbench.editor.tabSizing": "shrink",
+	"workbench.editor.tabCloseButton": "off",
+	"window.dialogStyle": "custom",
+	"window.titleBarStyle": "custom",
+	"telemetry.telemetryLevel": "off",
+	"security.workspace.trust.untrustedFiles": "open",
+	"security.workspace.trust.enabled": false,
+	"vsintellicode.features.apiExamplests": "enabled",
+	"vsintellicode.features.apiExamples": "enabled",
+	"vsintellicode.features.python.deepLearning": "enabled",
+	// 
+	// Git
+	// 
+	"git.autofetch": true,
+	"git.enableSmartCommit": true,
+	"git.confirmSync": false,
+	"git.confirmEmptyCommits": false,
+	"git.suggestSmartCommit": true,
+	// 
+	// Languages
+	// 
+	"omnisharp.useModernNet": false,
+	"python.languageServer": "Pylance",
+	"python.analysis.completeFunctionParens": true,
+	"eslint.run": "onSave",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"python.terminal.focusAfterLaunch": true,
+	"codesnap.shutterAction": "copy",
+	"codesnap.boxShadow": "rgba(0, 0, 0, 0.7) 0px 20px 68px",
+	"liveServer.settings.donotVerifyTags": true,
+	"svelte.enable-ts-plugin": true,
+	// 
+	// Terminal
+	// 
+	"terminal.external.linuxExec": "x-terminal-emulator",
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.cursorWidth": 2,
+	"terminal.integrated.gpuAcceleration": "on",
+	"terminal.integrated.profiles.linux": {
+		"zsh": {
+			"path": "zsh"
+		}
+	},
+	"terminal.integrated.defaultProfile.linux": "zsh",
+	"terminal.integrated.smoothScrolling": true,
+}
