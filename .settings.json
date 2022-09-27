@@ -1,7 +1,4 @@
 {
-	// 
-	// Editor
-	// 
 	"editor.cursorSmoothCaretAnimation": true,
 	"editor.fontFamily": "'JetBrains Mono', 'Courier New', monospace",
 	"editor.detectIndentation": false,
@@ -32,9 +29,6 @@
 	"editor.guides.bracketPairs": true,
 	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
 	"editor.inlineSuggest.enabled": true,
-	// 
-	// VSCode
-	// 
 	"workbench.colorTheme": "One Dark Pro Darker",
 	"workbench.startupEditor": "none",
 	"explorer.confirmDragAndDrop": false,
@@ -55,17 +49,11 @@
 	"vsintellicode.features.apiExamplests": "enabled",
 	"vsintellicode.features.apiExamples": "enabled",
 	"vsintellicode.features.python.deepLearning": "enabled",
-	// 
-	// Git
-	// 
 	"git.autofetch": true,
 	"git.enableSmartCommit": true,
 	"git.confirmSync": false,
 	"git.confirmEmptyCommits": false,
 	"git.suggestSmartCommit": true,
-	// 
-	// Languages
-	// 
 	"omnisharp.useModernNet": false,
 	"python.languageServer": "Pylance",
 	"python.analysis.completeFunctionParens": true,
@@ -76,9 +64,6 @@
 	"codesnap.boxShadow": "rgba(0, 0, 0, 0.7) 0px 20px 68px",
 	"liveServer.settings.donotVerifyTags": true,
 	"svelte.enable-ts-plugin": true,
-	// 
-	// Terminal
-	// 
 	"terminal.external.linuxExec": "x-terminal-emulator",
 	"terminal.integrated.cursorBlinking": true,
 	"terminal.integrated.cursorStyle": "line",
@@ -90,5 +75,5 @@
 		}
 	},
 	"terminal.integrated.defaultProfile.linux": "zsh",
-	"terminal.integrated.smoothScrolling": true,
+	"terminal.integrated.smoothScrolling": true
 }

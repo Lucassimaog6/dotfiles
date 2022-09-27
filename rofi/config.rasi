@@ -1,0 +1,20 @@
+configuration {
+	font: "JetBrains Mono 10";
+	click-to-exit: true;
+	combi-hide-mode-prefix: true;
+	drun{
+		display-name: ">";
+	}
+	timeout {
+		action: "kb-cancel";
+		delay:  0;
+	}
+	filebrowser {
+		directories-first: true;
+		sorting-method:    "name";
+	}
+	dump {
+		config: ".config/rofi/config.rasi";
+	}
+}
+@theme "/home/lucas/.config/rofi/theme.rasi"
